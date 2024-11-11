@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlexDeDem
-- 👀 I’m interested in garrys mod 
-- 💞️ I’m looking to collaborate on developers of the garrys mod mod addons
-- 📫 How to reach me discord Alexdedem
-- 😄 Pronouns: Alex
+- 💞️ I’m looking to collaborate on developers of the garrys mod addons, creation of telegram bots And much more
+- 📫 How to reach me discord Alexdedem or telegram: t.me/AlexDeDem
+- 😄 Pronouns: AlexDeDem
 
 
 <!---
